@@ -5,7 +5,7 @@ This is a minimal terminal-based email application built using [Bubble Tea](http
 ## Features
 
 This is about as simple as it gets for an email client, and would not feel out of place on an ARPANET mainframe
-in a dusty basement somewhere in Berkeley.
+in a dusty basement somewhere in Berkeley. It is best run with the terminal open on full screen.
 
 ![image](https://github.com/user-attachments/assets/e425db4d-50ca-40b0-be0a-611d5c0ae2c0)
 
