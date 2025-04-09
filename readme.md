@@ -1,4 +1,4 @@
-# DemoProject
+# Command Line/Terminal Based Email Client
 
 This is a minimal terminal-based email application built using [Bubble Tea](https://github.com/charmbracelet/bubbletea) in Go. I configured it to run on a pseudo-backend which is a SQLite database (`emails.db`). Were this to be converted to a real email client, the touch-points for the database (contained within db) would be altered instead to interface with an IMAP server, and carry out the specific logic related to that.
 
@@ -6,6 +6,9 @@ This is a minimal terminal-based email application built using [Bubble Tea](http
 
 This is about as simple as it gets for an email client, and would not feel out of place on an ARPANET mainframe
 in a dusty basement somewhere in Berkeley.
+
+![image](https://github.com/user-attachments/assets/e425db4d-50ca-40b0-be0a-611d5c0ae2c0)
+
 
 - Folders: Inbox, Sent, Archive, Deleted, Spam
 - Context-specific actions (Delete, Archive, Mark as Spam, etc.)
